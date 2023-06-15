@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Qezenfer10
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Game Development
